@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323169786086",
+    "project_id": "event-management-app-f72f4",
+    "storage_bucket": "event-management-app-f72f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323169786086:android:08fc89d1c285892d628327",
+        "android_client_info": {
+          "package_name": "com.example.iet_event_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB0HcOJVbJU2_1pQE6u2a3XflbrDc11B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

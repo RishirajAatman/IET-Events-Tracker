@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Hackathon 2025",
+    "date": "2025-11-04",
+    "venue": "IET Auditorium",
+    "coordinator": "Ravi Sharma",
+    "category": "Technical",
+    "registrationLink": "https://iet.edu/register/hackathon",
+    "image": "assets/images/hackathon.jpg",
+    "description": "24-hour coding competition: build, pitch and win. Teams of up to 4."
+  },
+  {
+    "title": "Flutter Workshop",
+    "date": "2025-11-05",
+    "venue": "Lab 3",
+    "coordinator": "Priya Patel",
+    "category": "Workshop",
+    "registrationLink": "https://iet.edu/register/flutter",
+    "image": "assets/images/flutter.jpg",
+    "description": "Hands-on Flutter session: build real mobile UI and deploy to Android."
+  },
+  {
+    "title": "AI & ML Summit",
+    "date": "2025-11-06",
+    "venue": "Conference Hall",
+    "coordinator": "Rahul Verma",
+    "category": "Technical",
+    "registrationLink": "https://iet.edu/register/aiml",
+    "image": "assets/images/aiml.jpg",
+    "description": "Keynotes and panels from industry experts in AI and ML."
+  },
+  {
+    "title": "Cultural Night",
+    "date": "2025-11-07",
+    "venue": "Open Ground",
+    "coordinator": "Sneha Joshi",
+    "category": "Cultural",
+    "registrationLink": "https://iet.edu/register/culturalnight",
+    "image": "assets/images/cultural.jpg",
+    "description": "Music, dance and drama. Celebrate creativity and campus talent."
+  },
+  {
+    "title": "Robotics Expo",
+    "date": "2025-11-08",
+    "venue": "Innovation Hall",
+    "coordinator": "Ankit Singh",
+    "category": "Technical",
+    "registrationLink": "https://iet.edu/register/robotics",
+    "image": "assets/images/robotics.jpg",
+    "description": "Robots, demos and workshops by student teams and guest startups."
+  },
+  {
+    "title": "Cybersecurity Talk",
+    "date": "2025-11-09",
+    "venue": "Seminar Hall B",
+    "coordinator": "Ananya Ghosh",
+    "category": "Technical",
+    "registrationLink": "https://iet.edu/register/cyber",
+    "image": "assets/images/cyber.jpg",
+    "description": "Learn practical defensive security and career paths in cyber."
+  },
+  {
+    "title": "Dance Fiesta",
+    "date": "2025-11-10",
+    "venue": "Main Stage",
+    "coordinator": "Aarav Mehta",
+    "category": "Cultural",
+    "registrationLink": "https://iet.edu/register/dance",
+    "image": "assets/images/dance.jpg",
+    "description": "Solo & group dance competition across genres."
+  },
+  {
+    "title": "Photography Workshop",
+    "date": "2025-11-11",
+    "venue": "Studio 2",
+    "coordinator": "Kavya Nair",
+    "category": "Workshop",
+    "registrationLink": "https://iet.edu/register/photography",
+    "image": "assets/images/photography.jpg",
+    "description": "Basics of composition, lighting and mobile photography tips."
+  },
+  {
+    "title": "Startup Meetup",
+    "date": "2025-11-12",
+    "venue": "Innovation Center",
+    "coordinator": "Yash Kumar",
+    "category": "Technical",
+    "registrationLink": "https://iet.edu/register/startup",
+    "image": "assets/images/startup.jpg",
+    "description": "Founders and mentors meet — pitch, network and get feedback."
+  },
+  {
+    "title": "Singing Contest",
+    "date": "2025-11-13",
+    "venue": "Auditorium B",
+    "coordinator": "Ritu Raj",
+    "category": "Cultural",
+    "registrationLink": "https://iet.edu/register/singing",
+    "image": "assets/images/singing.jpg",
+    "description": "Solo singing contest judged by local musicians."
+  },
+  {
+    "title": "TechFest 2025",
+    "date": "2025-11-14",
+    "venue": "Tech Park",
+    "coordinator": "Vikram Desai",
+    "category": "Technical",
+    "registrationLink": "https://iet.edu/register/techfest",
+    "image": "assets/images/techfest.jpg",
+    "description": "A grand showcase of technology, innovation, and creativity."
+  },
+  {
+    "title": "Drama Night",
+    "date": "2025-11-15",
+    "venue": "Open Air Theatre",
+    "coordinator": "Meera Kapoor",
+    "category": "Cultural",
+    "registrationLink": "https://iet.edu/register/drama",
+    "image": "assets/images/drama.jpg",
+    "description": "An evening of theatrical performances by talented students."
+  },
+  {
+    "title": "Coding Bootcamp",
+    "date": "2025-11-16",
+    "venue": "Lab 5",
+    "coordinator": "Siddharth Jain",
+    "category": "Workshop",
+    "registrationLink": "https://iet.edu/register/codingbootcamp",
+    "image": "assets/images/coding.jpg",
+    "description": "Intensive hands-on bootcamp covering algorithms, data structures and project work."
+  }
+]
