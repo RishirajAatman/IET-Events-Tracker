@@ -1,16 +1,76 @@
-# iet_event_tracker
+# 📱 Eventify - IET Events Tracker App
 
-Event tracker application
+## 📌 Overview
 
-## Getting Started
+Eventify is a Flutter-based mobile application developed to streamline college event management. It allows students to explore events and enables administrators to create, edit, and manage events efficiently using Firebase for real-time updates.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👨‍🎓 For Students
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 🔍 Browse and explore events
+* 🏷 Filter events by category
+* 📅 View event details
+* 👤 Profile dashboard
+
+### 🛠 For Admin
+
+* ➕ Add events
+* ✏️ Edit events
+* 🗑 Delete events
+* 🔄 Real-time Firebase updates
+
+---
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* Android Studio
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Screen
+
+![Login](assets/screenshots/login.png)
+
+### 🔍 Explore Screen
+
+![Explore](assets/screenshots/explore.png)
+
+### 🛠 Admin Panel
+
+![Admin](assets/screenshots/adminPage.png)
+
+### 👤 Profile Screen
+
+![Profile](assets/screenshots/profile.png)
+
+### ✏️ Edit Event
+
+![Edit](assets/screenshots/editEvents.png)
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/RishirajAatman/IET-Events-Tracker.git
+cd IET-Events-Tracker
+flutter pub get
+flutter run
+```
+
+---
+
+## 👨‍💻 Author
+
+Rishiraj Aatman
+📍 Indore, India
+
+---
